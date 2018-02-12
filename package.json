@@ -1,5 +1,5 @@
 {
-  "name": "generator-nodeapi",
+  "name": "@serajam/generator-nodeapi",
   "version": "1.0.0",
   "description": "Scaffold out a back-end node api using express ",
   "homepage": "http://ganny26.github.io",
