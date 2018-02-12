@@ -1,4 +1,4 @@
-# generator-nodeapi [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-nodeapi [![NPM version][npm-image]][https://www.npmjs.com/package/@serajam/generator-nodeapi] 
 > Express JS API 
 
 ## Installation
