@@ -1,0 +1,21 @@
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "<%= description %>",
+  "main": "server.js",
+  "author": "<%= author %>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5",
+    "dotenv": "^4.0.0",
+    "cors": "^2.8.4"
+  }
+}
