@@ -2,7 +2,7 @@
   "name": "generator-nodeapi",
   "version": "1.0.0",
   "description": "Scaffold out a back-end node api using express ",
-  "homepage": "http://ganny26.github.io",
+  "homepage": "https://github.com/ganny26/generator-nodeapi",
   "author": {
     "name": "selvaganeshrajam",
     "email": "selvaganeshrajam@gmail.com",
@@ -19,6 +19,9 @@
     "app",
     "yeoman-generator"
   ],
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
   "devDependencies": {
     "eslint": "^4.1.0",
     "eslint-config-prettier": "^2.4.0",
@@ -79,6 +82,12 @@
       "prettier"
     ]
   },
-  "repository": "ganny26/generator-nodeapi",
+  "bugs": {
+    "url": "https://github.com/ganny26/generator-nodeapi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganny26/generator-nodeapi.git"
+  },
   "license": "MIT"
 }
